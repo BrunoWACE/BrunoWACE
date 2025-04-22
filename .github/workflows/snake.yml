@@ -9,11 +9,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate the snake
+      - name: Generate the snake SVG
         uses: Platane/snk@master
         with:
           github_user_name: BrunoWACE
-          outputs: dist
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
