@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou o Bruno!  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="321" alt="codando">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="290" alt="codando">
 Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, funcionais e acessíveis. Busco unir design e usabilidade para oferecer experiências digitais intuitivas para os usuários, sempre com foco em boas práticas e aprendizado constante.
 
 ### 👨‍💻 Atualmente estou:
