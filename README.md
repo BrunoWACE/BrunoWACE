@@ -26,7 +26,10 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 [![Stats](https://github-readme-stats.vercel.app/api?username=BrunoWACE)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWACE&layout=compact)
 
-![snake gif](https://github.com/BrunoWACE/BrunoWACE/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake com as contribuições
+
+![snake gif](https://raw.githubusercontent.com/BrunoWACE/BrunoWACE/output/github-contribution-grid-snake.svg)
+
 
 
 
