@@ -12,18 +12,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate the Snake SVG
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: BrunoWACE
           outputs: |
-            github-contribution-grid-snake.svg
+            ./github-contribution-grid-snake.svg
 
-      - name: Push SVG to the output branch
+      - name: Commit and Push
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
