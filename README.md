@@ -28,7 +28,8 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 
 ## 🐍 Snake com as contribuições
 
-![snake gif](https://raw.githubusercontent.com/BrunoWACE/BrunoWACE/output/github-contribution-grid-snake.svg)
+![snake gif](https://cdn.jsdelivr.net/gh/BrunoWACE/BrunoWACE@output/github-contribution-grid-snake.svg)
+
 
 
 
