@@ -23,7 +23,7 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 ---
 
 ## 📫 Me encontra por aqui:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-wace)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunowace-ferreira)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:brunowace.saikou@gmail.com)
 
 ---
