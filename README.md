@@ -6,6 +6,7 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 - Estudando Front-End com foco em boas práticas e performance
 - Praticando projetos próprios para aprimorar minhas skills
 - Explorando novas formas de deixar interfaces mais dinâmicas
+- Aprendendo na prática automação de processos com n8n
 
 ---
 
