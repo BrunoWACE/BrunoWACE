@@ -17,7 +17,8 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
+![n8n](https://img.shields.io/badge/n8n-FA5A28?style=flat&logo=n8n&logoColor=white)
+![Automação de Processos](https://img.shields.io/badge/Automação%20de%20Processos-555555?style=flat&logo=cogs&logoColor=white)
 
 
 ---
