@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Bruno!  
+# 🎯 Olá, eu sou o Bruno!  
 <!--<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="codando">-->
 Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, funcionais e acessíveis. Busco unir design e usabilidade para oferecer experiências digitais intuitivas para os usuários, sempre com foco em boas práticas e aprendizado constante.
 
@@ -21,8 +21,7 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 ![n8n](https://img.shields.io/badge/n8n-FA5A28?style=flat&logo=n8n&logoColor=white)
 ![Automação de Processos](https://img.shields.io/badge/Automação%20de%20Processos-555555?style=flat&logo=cogs&logoColor=white)
 
-
----
+<br>
 
 ## 📫 Me encontra por aqui:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunowace-ferreira)
@@ -35,7 +34,7 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 [![Stats](https://github-readme-stats.vercel.app/api?username=BrunoWACE)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoWACE&layout=compact)
 
----
+<br>
 
 ## 🐍 Snake com as contribuições
 
