@@ -42,7 +42,7 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 ### 🤖 Automação
 ![n8n](https://img.shields.io/badge/n8n-F53AE5?style=flat&logo=n8n&logoColor=white)
 </div>
----
+
 
 
 ## 📫 Me encontra por aqui:
