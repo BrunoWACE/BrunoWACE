@@ -30,7 +30,7 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)-->
 
 ### 🧪 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=nodejs,bootstrap,npm,yarn,vite,express,prisma,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap,npm,yarn,vite,express,prisma,mongodb)](https://skillicons.dev)
 <!--![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
