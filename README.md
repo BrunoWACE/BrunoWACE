@@ -24,13 +24,13 @@ Sou um desenvolvedor em formação, apaixonado por criar interfaces modernas, fu
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)-->
 
 ### 🧰 Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,powershell,git,github,figma,netlify)](https://skillicons.dev)
 <!--![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)-->
 
 ### 🧪 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap,npm,yarn,vite,express,prisma,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,styledcomponents,npm,yarn,vite,express,prisma,mongodb)](https://skillicons.dev)
 <!--![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
