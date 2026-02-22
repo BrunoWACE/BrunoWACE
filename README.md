@@ -5,10 +5,10 @@
 
 Desenvolvedor **Full Stack** com foco em **JavaScript**, atuando na construção de aplicações completas do **front-end** ao **back-end** com interfaces modernas, responsivas e centradas na experiência do usuário.
 
-### Front-end
+### Front-End
 Desenvolvo aplicações e sites utilizando **React**, **HTML**, **CSS** e **JavaScript**, aplicando princípios de **UX/UI**, **mobile-first**, **clean code** e **componentização**, com foco em performance e clareza visual.
 
-### Back-end
+### Back-End
 Desenvolvo **APIs REST** com **Node.js**, aplicando arquitetura em camadas e utilizando **Sequelize** como ORM para integração com **PostgreSQL**, além de **MongoDB** para dados não relacionais. Priorizo organização, validações, controle de acesso e estrutura preparada para escalabilidade.
 
 ### Experiência
